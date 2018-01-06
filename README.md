@@ -24,3 +24,14 @@ I believe this will not only improve my interview skill, coding skill, I will al
 Please submit your question via issue!
 
 ![GitHub Logo](/img/issue.png)
+
+Here are some related links, I will think out of a way to integrete them and make my own page unique.
+
+* [Awesome Interview - JavaScript](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
+* [Awesome Interview - Front end build tools](https://github.com/MaximAbramchuck/awesome-interview-questions#front-end-build-tools)
+* [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
+* [前端工程師面試問題集](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese-Traditional)
+
+---
+
+* [[心得] 前端面試心得](https://www.ptt.cc/bbs/Soft_Job/M.1506780799.A.762.html)
